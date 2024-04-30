@@ -1,6 +1,6 @@
 <?php
 
-namespace ApiPaySdk;
+namespace Jinchangxing\ApiPaySdk;
 
 use ReflectionClass;
 use DuoLaBao\DuoLaBao;
