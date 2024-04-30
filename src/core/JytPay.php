@@ -1,6 +1,6 @@
 <?php
 
-namespace JytPay;
+namespace Jinchangxing\ApiPaySdk\JytPay;
 
 use ReflectionClass;
 use DuoLaBao\DuoLaBao;
