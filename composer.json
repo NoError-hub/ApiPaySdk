@@ -1,0 +1,20 @@
+{
+    "name": "jinchangxing/api-pay-sdk",
+    "description": "集成常见三方支付接口的sdk工具包,用于快速接入三方支付",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "8.0.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jinchangxing\\ApiPaySdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "穆曹",
+            "email": "macper@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
